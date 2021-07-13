@@ -1,6 +1,16 @@
 # Project: Pomodoro Timer
 
-Pomodoro Timer Assignment
+This Pomodoro Timer Project is a time-management app that provides users with a timer to break down work into intervals of focus and break sessions.
+
+## Technology
+
+### Built with:
+
+- React
+  - Created with [create-react-app](https://github.com/facebook/create-react-app)
+- JavaScript
+- HTML
+- CSS
 
 ## About Me
 
