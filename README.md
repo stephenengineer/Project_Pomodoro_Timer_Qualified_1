@@ -11,6 +11,7 @@ This Pomodoro Timer Project is a time-management app that provides users with a 
 - JavaScript
 - HTML
 - CSS
+- Vercel
 
 ## About Me
 
